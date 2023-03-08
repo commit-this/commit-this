@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Han
+- 🌱 I’m currently learning Python, SQL, C, Javascript, HTML/CSS
+- Leetcode: - https://leetcode.com/commit-this/
 
 <!--
 **commit-this/commit-this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
